@@ -1,0 +1,15 @@
+.container{
+    max-width: 500px;
+}
+
+input[type=text], input[type=text]:focus{
+    color: blue;
+}
+
+.delete{
+    cursor: pointer;
+}
+
+.filtered{
+    display: none !important;
+}
